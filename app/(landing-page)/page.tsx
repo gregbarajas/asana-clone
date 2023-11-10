@@ -1,3 +1,4 @@
+import FifthSection from "./FifthSection/page";
 import FirstSection from "./FirstSection/page";
 import FourthSection from "./FourthSection/page";
 import Logo from "./Navbar/_components/logo";
@@ -14,6 +15,8 @@ const LandingPage = () => {
       <SecondSection/>
       <ThirdSection/>
       <FourthSection/>
+      <FifthSection/>
+      
     </div>
   );
 }
