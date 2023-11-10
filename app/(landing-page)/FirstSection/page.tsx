@@ -33,14 +33,14 @@ const FirstSection = () => {
         
         "
         >
-          Want more efficiency in your organization? Bird is easy for all teams
+          Want more efficiency in your organization? Asana is easy for all teams
           to use, so you can deliver quality work, faster.
         </p>
         <div className="flex gap-4 justify-center">
           <button className="bg-[#000] text-white px-6 py-3 rounded-sm ">
             Get Started
           </button>
-          <Link href="/Contact">
+          <Link href="/contact">
             <button className="bg-gray-500 text-white px-6 py-3 rounded-sm">
               See how it works
             </button>
